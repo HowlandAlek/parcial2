@@ -9,6 +9,8 @@ This is an exam for a basic web development university course.
 #### Project Objectives
 
 - Use of ejs
+- Use Node JS
+- Handle Http requests
 - Use Git version control
 - Use command line
 - Develop locally
@@ -17,7 +19,8 @@ This is an exam for a basic web development university course.
 
 - HTML
 - CSS
-
+- JavaScript
+- Node JS
 
 ## Status
 
