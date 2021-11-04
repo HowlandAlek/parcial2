@@ -20,6 +20,7 @@ This is an exam for a basic web development university course.
 - HTML
 - CSS
 - JavaScript
+- EJS
 - Node JS
 
 ## Status
